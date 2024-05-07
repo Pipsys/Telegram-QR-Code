@@ -13,7 +13,7 @@ from aiogram.types import InputFile
 from aiogram.contrib.middlewares.logging import LoggingMiddleware
 
 
-TOKEN = '6812435725:AAFzkQxV8qzSnC-BSctVPJBRM6tgH1rdo7o'
+TOKEN = 'token'
 bot = Bot (token = TOKEN)
 dp = Dispatcher (bot)
 
